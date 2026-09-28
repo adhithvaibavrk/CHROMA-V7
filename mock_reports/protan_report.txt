@@ -1,0 +1,7 @@
+CLINICAL OPTOMETRY EXAMINATION REPORT
+Patient ID: 88412
+Diagnostic Test: Nagel Anomaloscope & Ishihara 38-Plate Test
+Findings: Patient demonstrates severe loss of L-cone spectral sensitivity.
+Diagnosis: Protanopia
+Deficit Severity Score: 0.85
+Recommended Filter: Red Channel Shift Matrix

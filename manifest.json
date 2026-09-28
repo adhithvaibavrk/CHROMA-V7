@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Project Chroma - Precision Display Recalibration",
+  "version": "1.0.0",
+  "description": "Zero-hardware digital prosthetic for Color Vision Deficiency using clinical optometry data and WebGL shaders.",
+  "permissions": [
+    "offscreen",
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "Project Chroma"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

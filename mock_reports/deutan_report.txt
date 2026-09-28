@@ -1,0 +1,7 @@
+CLINICAL OPTOMETRY EXAMINATION REPORT
+Patient ID: 33109
+Diagnostic Test: Farnsworth-Munsell 100 Hue Test
+Findings: Moderate M-cone sensitivity shift observed in green spectrum channels.
+Diagnosis: Deuteranomaly
+Deficit Severity Score: 0.45
+Recommended Filter: Green Channel Shift Matrix
